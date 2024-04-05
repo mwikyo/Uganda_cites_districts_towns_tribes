@@ -1,0 +1,685 @@
+{
+    "districts": [
+      {
+        "district": "Abim",
+        "region": "North",
+        "sub-region": "Karamoja"
+      },
+      {
+        "district": "Adjumani",
+        "region": "North",
+        "sub-region": "West Nile"
+      },
+      {
+        "district": "Agago",
+        "region": "North",
+        "sub-region": "Acholi"
+      },
+      {
+        "district": "Alebtong",
+        "region": "North",
+        "sub-region": "Lango"
+      },
+      {
+        "district": "Amolatar",
+        "region": "North",
+        "sub-region": "Lango"
+      },
+      {
+        "district": "Amudat",
+        "region": "North",
+        "sub-region": "Karamoja"
+      },
+      {
+        "district": "Amuru",
+        "region": "North",
+        "sub-region": "Acholi"
+      },
+      {
+        "district": "Apac",
+        "region": "North",
+        "sub-region": "Lango"
+      },
+      {
+        "district": "Arua",
+        "region": "North",
+        "sub-region": "West Nile"
+      },
+      {
+        "district": "Dokolo",
+        "region": "North",
+        "sub-region": "Lango"
+      },
+      {
+        "district": "Gulu",
+        "region": "North",
+        "sub-region": "Acholi"
+      },
+      {
+        "district": "Kaabong",
+        "region": "North",
+        "sub-region": "Karamoja"
+      },
+      {
+        "district": "Kitgum",
+        "region": "North",
+        "sub-region": "Acholi"
+      },
+      {
+        "district": "Koboko",
+        "region": "North",
+        "sub-region": "West Nile"
+      },
+      {
+        "district": "Kole",
+        "region": "North",
+        "sub-region": "Lango"
+      },
+      {
+        "district": "Kotido",
+        "region": "North",
+        "sub-region": "Karamoja"
+      },
+      {
+        "district": "Lamwo",
+        "region": "North",
+        "sub-region": "Acholi"
+      },
+      {
+        "district": "Lira",
+        "region": "North",
+        "sub-region": "Lango"
+      },
+      {
+        "district": "Maracha",
+        "region": "North",
+        "sub-region": "West Nile"
+      },
+      {
+        "district": "Moroto",
+        "region": "North",
+        "sub-region": "Karamoja"
+      },
+      {
+        "district": "Moyo",
+        "region": "North",
+        "sub-region": "West Nile"
+      },
+      {
+        "district": "Nakapiripirit",
+        "region": "North",
+        "sub-region": "Karamoja"
+      },
+      {
+        "district": "Napak",
+        "region": "North",
+        "sub-region": "Karamoja"
+      },
+      {
+        "district": "Nebbi",
+        "region": "North",
+        "sub-region": "West Nile"
+      },
+      {
+        "district": "Nwoya",
+        "region": "North",
+        "sub-region": "Acholi"
+      },
+      {
+        "district": "Otuke",
+        "region": "North",
+        "sub-region": "Lango"
+      },
+      {
+        "district": "Oyam",
+        "region": "North",
+        "sub-region": "Lango"
+      },
+      {
+        "district": "Pader",
+        "region": "North",
+        "sub-region": "Acholi"
+      },
+      {
+        "district": "Yumbe",
+        "region": "North",
+        "sub-region": "West Nile"
+      },
+      {
+        "district": "Zombo",
+        "region": "North",
+        "sub-region": "West Nile"
+      },
+      {
+        "district": "Karenga",
+        "region": "North",
+        "sub-region": "Karamoja"
+      },
+      {
+        "district": "Kwania",
+        "region": "North",
+        "sub-region": "Lango"
+      },
+      {
+        "district": "Nabilatuk",
+        "region": "North",
+        "sub-region": "Karamoja"
+      },
+      {
+        "district": "Obongi",
+        "region": "North",
+        "sub-region": "West Nile"
+      },
+      {
+        "district": "Omoro",
+        "region": "North",
+        "sub-region": "Acholi"
+      },
+      {
+        "district": "Pakwach",
+        "region": "North",
+        "sub-region": "West Nile"
+      },
+      {
+        "district": "Terego",
+        "region": "North",
+        "sub-region": "West Nile"
+      },
+      {
+        "district": "Madi-Okollo",
+        "region": "North",
+        "sub-region": "West Nile"
+      },
+      {
+        "district": "Amuria",
+        "region": "East",
+        "sub-region": "Teso"
+      },
+      {
+        "district": "Budaka",
+        "region": "East",
+        "sub-region": "Bugisu"
+      },
+      {
+        "district": "Bududa",
+        "region": "East",
+        "sub-region": "Bugisu"
+      },
+      {
+        "district": "Bugiri",
+        "region": "East",
+        "sub-region": "Busoga"
+      },
+      {
+        "district": "Bukedea",
+        "region": "East",
+        "sub-region": "Teso"
+      },
+      {
+        "district": "Bukwo",
+        "region": "East",
+        "sub-region": "Bugisu"
+      },
+      {
+        "district": "Bulambuli",
+        "region": "East",
+        "sub-region": "Bugisu"
+      },
+      {
+        "district": "Busia",
+        "region": "East",
+        "sub-region": "Busoga"
+      },
+      {
+        "district": "Butaleja",
+        "region": "East",
+        "sub-region": "Bugisu"
+      },
+      {
+        "district": "Buyende",
+        "region": "East",
+        "sub-region": "Busoga"
+      },
+      {
+        "district": "Iganga",
+        "region": "East",
+        "sub-region": "Busoga"
+      },
+      {
+        "district": "Butebo",
+        "region": "East",
+        "sub-region": "Teso"
+      },
+      {
+        "district": "Jinja",
+        "region": "East",
+        "sub-region": "Busoga"
+      },
+      {
+        "district": "Kaberamaido",
+        "region": "East",
+        "sub-region": "Teso"
+      },
+      {
+        "district": "Kaliro",
+        "region": "East",
+        "sub-region": "Busoga"
+      },
+      {
+        "district": "Kamuli",
+        "region": "East",
+        "sub-region": "Busoga"
+      },
+      {
+        "district": "Kapchorwa",
+        "region": "East",
+        "sub-region": "Bugisu"
+      },
+      {
+        "district": "Katakwi",
+        "region": "East",
+        "sub-region": "Teso"
+      },
+      {
+        "district": "Kibuku",
+        "region": "East",
+        "sub-region": "Bugisu"
+      },
+      {
+        "district": "Kumi",
+        "region": "East",
+        "sub-region": "Teso"
+      },
+      {
+        "district": "Kween",
+        "region": "East",
+        "sub-region": "Bugisu"
+      },
+      {
+        "district": "Luuka",
+        "region": "East",
+        "sub-region": "Busoga"
+      },
+      {
+        "district": "Manafwa",
+        "region": "East",
+        "sub-region": "Bugisu"
+      },
+      {
+        "district": "Namayingo",
+        "region": "East",
+        "sub-region": "Busoga"
+      },
+      {
+        "district": "Namutumba",
+        "region": "East",
+        "sub-region": "Busoga"
+      },
+      {
+        "district": "Ngora",
+        "region": "East",
+        "sub-region": "Teso"
+      },
+      {
+        "district": "Pallisa",
+        "region": "East",
+        "sub-region": "Teso"
+      },
+      {
+        "district": "Serere",
+        "region": "East",
+        "sub-region": "Teso"
+      },
+      {
+        "district": "Sironko",
+        "region": "East",
+        "sub-region": "Bugisu"
+      },
+      {
+        "district": "Soroti",
+        "region": "East",
+        "sub-region": "Teso"
+      },
+      {
+        "district": "Kapelebyong",
+        "region": "East",
+        "sub-region": "Teso"
+      },
+      {
+        "district": "Mayuge",
+        "region": "East",
+        "sub-region": "Busoga"
+      },
+      {
+        "district": "Mbale",
+        "region": "East",
+        "sub-region": "Bugisu"
+      },
+      {
+        "district": "Namisindwa",
+        "region": "East",
+        "sub-region": "Bugisu"
+      },
+      {
+        "district": "Tororo",
+        "region": "East",
+        "sub-region": "Teso"
+      },
+      {
+        "district": "Bugweri",
+        "region": "East",
+        "sub-region": "Busoga"
+      },
+      {
+        "district": "Kalaki",
+        "region": "East",
+        "sub-region": "Teso"
+      },
+      {
+        "district": "Buikwe",
+        "region": "Central",
+        "sub-region": "Busoga"
+      },
+      {
+        "district": "Bukomansimbi",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Butambala",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Buvuma",
+        "region": "Central",
+        "sub-region": "Busoga"
+      },
+      {
+        "district": "Gomba",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Kalangala",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Kalungu",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Kayunga",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Kiboga",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Kyankwanzi",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Luweero",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Lwengo",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Lyantonde",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Masaka",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Mityana",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Mpigi",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Mubende",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Mukono",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Nakaseke",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Nakasongola",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Rakai",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Sembabule",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Wakiso",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Kasanda",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Kyotera",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Kampala",
+        "region": "Central",
+        "sub-region": "Buganda"
+      },
+      {
+        "district": "Buhweju",
+        "region": "West",
+        "sub-region": "Ankole"
+      },
+      {
+        "district": "Buliisa",
+        "region": "West",
+        "sub-region": "Bunyoro"
+      },
+      {
+        "district": "Bundibugyo",
+        "region": "West",
+        "sub-region": "Rwenzori"
+      },
+      {
+        "district": "Bushenyi",
+        "region": "West",
+        "sub-region": "Ankole"
+      },
+      {
+        "district": "Hoima",
+        "region": "West",
+        "sub-region": "Bunyoro"
+      },
+      {
+        "district": "Ibanda",
+        "region": "West",
+        "sub-region": "Ankole"
+      },
+      {
+        "district": "Isingiro",
+        "region": "West",
+        "sub-region": "Ankole"
+      },
+      {
+        "district": "Kabale",
+        "region": "West",
+        "sub-region": "Kigezi"
+      },
+      {
+        "district": "Kabarole",
+        "region": "West",
+        "sub-region": "Rwenzori"
+      },
+      {
+        "district": "Kamwenge",
+        "region": "West",
+        "sub-region": "Rwenzori"
+      },
+      {
+        "district": "Kanungu",
+        "region": "West",
+        "sub-region": "Kigezi"
+      },
+      {
+        "district": "Kasese",
+        "region": "West",
+        "sub-region": "Rwenzori"
+      },
+      {
+        "district": "Kibaale",
+        "region": "West",
+        "sub-region": "Bunyoro"
+      },
+      {
+        "district": "Kiruhura",
+        "region": "West",
+        "sub-region": "Ankole"
+      },
+      {
+        "district": "Kiryandongo",
+        "region": "West",
+        "sub-region": "Bunyoro"
+      },
+      {
+        "district": "Kisoro",
+        "region": "West",
+        "sub-region": "Kigezi"
+      },
+      {
+        "district": "Kyegegwa",
+        "region": "West",
+        "sub-region": "Bunyoro"
+      },
+      {
+        "district": "Kyenjojo",
+        "region": "West",
+        "sub-region": "Bunyoro"
+      },
+      {
+        "district": "Masindi",
+        "region": "West",
+        "sub-region": "Bunyoro"
+      },
+      {
+        "district": "Mbarara",
+        "region": "West",
+        "sub-region": "Ankole"
+      },
+      {
+        "district": "Mitooma",
+        "region": "West",
+        "sub-region": "Ankole"
+      },
+      {
+        "district": "Ntoroko",
+        "region": "West",
+        "sub-region": "Rwenzori"
+      },
+      {
+        "district": "Ntungamo",
+        "region": "West",
+        "sub-region": "Ankole"
+      },
+      {
+        "district": "Rubirizi",
+        "region": "West",
+        "sub-region": "Ankole"
+      },
+      {
+        "district": "Rukungiri",
+        "region": "West",
+        "sub-region": "Kigezi"
+      },
+      {
+        "district": "Sheema",
+        "region": "West",
+        "sub-region": "Ankole"
+      },
+      {
+        "district": "Kagadi",
+        "region": "West",
+        "sub-region": "Bunyoro"
+      },
+      {
+        "district": "Kakumiro",
+        "region": "West",
+        "sub-region": "Bunyoro"
+      },
+      {
+        "district": "Kazo",
+        "region": "West",
+        "sub-region": "Ankole"
+      },
+      {
+        "district": "Kikuube",
+        "region": "West",
+        "sub-region": "Bunyoro"
+      },
+      {
+        "district": "Kitagwenda",
+        "region": "West",
+        "sub-region": "Bunyoro"
+      },
+      {
+        "district": "Rubanda",
+        "region": "West",
+        "sub-region": "Kigezi"
+      },
+      {
+        "district": "Rukiga",
+        "region": "West",
+        "sub-region": "Kigezi"
+      },
+      {
+        "district": "Rwampara",
+        "region": "West",
+        "sub-region": "Ankole"
+      },
+      {
+        "district": "Bunyangabu",
+        "region": "West",
+        "sub-region": "Rwenzori"
+      }
+    ]
+  }
+  

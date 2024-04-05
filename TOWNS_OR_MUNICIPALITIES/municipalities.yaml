@@ -1,0 +1,125 @@
+municipalities:
+  - municipality: Apac
+    district: Apac
+    region: Northern
+    subregion: Lango
+  - municipality: Bushenyi
+    district: Bushenyi
+    region: Western
+    subregion: Ankole
+  - municipality: Busia
+    district: Busia
+    region: Eastern
+    subregion: Busoga
+  - municipality: Bugiri
+    district: Bugiri
+    region: Eastern
+    subregion: Busoga
+  - municipality: Entebbe
+    district: Wakiso
+    region: Central
+    subregion: Buganda
+  - municipality: Ibanda
+    district: Ibanda
+    region: Western
+    subregion: Ankole
+  - municipality: Iganga
+    district: Iganga
+    region: Eastern
+    subregion: Busoga
+  - municipality: Kamuli
+    district: Kamuli
+    region: Eastern
+    subregion: Busoga
+  - municipality: Kabale
+    district: Kabale
+    region: Western
+    subregion: Kigezi
+  - municipality: Kapchorwa
+    district: Kapchorwa
+    region: Eastern
+    subregion: Sebei
+  - municipality: Kasese
+    district: Kasese
+    region: Western
+    subregion: Rwenzori
+  - municipality: Kira
+    district: Wakiso
+    region: Central
+    subregion: Buganda
+  - municipality: Kisoro
+    district: Kisoro
+    region: Western
+    subregion: Kigezi
+  - municipality: Kitgum
+    district: Kitgum
+    region: Northern
+    subregion: Acholi
+  - municipality: Koboko
+    district: Koboko
+    region: Northern
+    subregion: West Nile
+  - municipality: Kotido
+    district: Kotido
+    region: Northern
+    subregion: Karamoja
+  - municipality: Kumi
+    district: Kumi
+    region: Eastern
+    subregion: Teso
+  - municipality: Lugazi
+    district: Buikwe
+    region: Central
+    subregion: Buganda
+  - municipality: Makindye-Ssabagabo
+    district: Wakiso
+    region: Central
+    subregion: Buganda
+  - municipality: Masindi
+    district: Masindi
+    region: Western
+    subregion: Bunyoro
+  - municipality: Mityana
+    district: Mityana
+    region: Central
+    subregion: Buganda
+  - municipality: Moroto
+    district: Moroto
+    region: Northern
+    subregion: Karamoja
+  - municipality: Mubende
+    district: Mubende
+    region: Central
+    subregion: Buganda
+  - municipality: Mukono
+    district: Mukono
+    region: Central
+    subregion: Buganda
+  - municipality: Nebbi
+    district: Nebbi
+    region: Northern
+    subregion: West Nile
+  - municipality: Ntungamo
+    district: Ntungamo
+    region: Western
+    subregion: Ankole
+  - municipality: Nansana
+    district: Wakiso
+    region: Central
+    subregion: Buganda
+  - municipality: Nejeru
+    district: Buikwe
+    region: Central
+    subregion: Buganda
+  - municipality: Rukungiri
+    district: Rukungiri
+    region: Western
+    subregion: Kigezi
+  - municipality: Tororo
+    district: Tororo
+    region: Eastern
+    subregion: Teso
+  - municipality: Sheema
+    district: Sheema
+    region: Western
+    subregion: Ankole
