@@ -3,17 +3,24 @@ A full list of all districts, cities, municipalities/towns and tribes in Uganda.
 
 Each list is provided in three file types: csv, yaml and json.
 
-Example:
-`- district: Abim
+*Example:*
+```
+- district: Abim
     region: North
-    sub-region: Karamoja`
+    sub-region: Karamoja
+```
 
-or 
-`{
+*or* 
+```
+{
         "district": "Abim",
         "region": "North",
         "sub-region": "Karamoja"
-  }`
+  }
+```
 
-  or
-  `"Abim","North","Karamoja"`
+  *or*
+ | District | Region | Sub-region |
+|----------|--------|------------|
+| Abim     | North  | Karamoja   |
+
