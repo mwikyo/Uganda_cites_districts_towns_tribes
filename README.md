@@ -1,5 +1,5 @@
 # Uganda_cites_districts_towns_tribes
-A full list of all districts, cities, municipalities/towns and tribes in Uganda.
+A full list of all districts, cities, municipalities/towns, counties and tribes in Uganda.
 
 Each list is provided in three file types: csv, yaml and json.
 
