@@ -1,0 +1,1473 @@
+counties:
+  - county: Labwor
+    district: Abim
+    region: Northern
+    sub-region: Karamoja
+  - county: East Moyo
+    district: Adjumani
+    region: Northern
+    sub-region: West Nile
+  - county: Agago
+    district: Agago
+    region: Northern
+    sub-region: Acholi
+  - county: Ajuri
+    district: Alebtong
+    region: Northern
+    sub-region: Lango
+  - county: Moroto
+    district: Alebtong
+    region: Northern
+    sub-region: Lango
+  - county: Kioga
+    district: Amolatar
+    region: Northern
+    sub-region: Lango
+  - county: Upe
+    district: Amudat
+    region: Northern
+    sub-region: Karamoja
+  - county: Amuria
+    district: Amuria
+    region: Eastern
+    sub-region: Teso
+  - county: Kapelebyong
+    district: Amuria
+    region: Eastern
+    sub-region: Teso
+  - county: Kilak
+    district: Amuru
+    region: Northern
+    sub-region: Acholi
+  - county: Kwania
+    district: Apac
+    region: Northern
+    sub-region: Lango
+  - county: Maruzi
+    district: Apac
+    region: Northern
+    sub-region: Lango
+  - county: Arua Municipal Council
+    district: Arua
+    region: Northern
+    sub-region: West Nile
+  - county: Ayivu
+    district: Arua
+    region: Northern
+    sub-region: West Nile
+  - county: Madi-Okollo
+    district: Arua
+    region: Northern
+    sub-region: West Nile
+  - county: Terego
+    district: Arua
+    region: Northern
+    sub-region: West Nile
+  - county: Vurra
+    district: Arua
+    region: Northern
+    sub-region: West Nile
+  - county: Budaka
+    district: Budaka
+    region: Eastern
+    sub-region: Teso
+  - county: Iki-Iki
+    district: Budaka
+    region: Eastern
+    sub-region: Teso
+  - county: Manjiya
+    district: Bududa
+    region: Eastern
+    sub-region: Bugisu
+  - county: Bukooli
+    district: Bugiri
+    region: Eastern
+    sub-region: Busoga
+  - county: Buhweju
+    district: Buhweju
+    region: Western
+    sub-region: Ankole
+  - county: Buikwe
+    district: Buikwe
+    region: Central
+    sub-region: Busoga
+  - county: Bukedea
+    district: Bukedea
+    region: Eastern
+    sub-region: Teso
+  - county: Bukomansimbi
+    district: Bukomansimbi
+    region: Central
+    sub-region: Buganda
+  - county: Kongasis 
+    district: Bukwo
+    region: Eastern
+    sub-region: Bugisu
+  - county: Bulambuli
+    district: Bulambuli
+    region: Eastern
+    sub-region: Bugisu
+  - county: Buliisa
+    district: Buliisa
+    region: Western
+    sub-region: Bunyoro
+  - county: Bughendera
+    district: Bundibugyo
+    region: Western
+    sub-region: Rwenzori
+  - county: Bwamba
+    district: Bundibugyo
+    region: Western
+    sub-region: Rwenzori
+  - county: Bushenyi-Ishaka Municipal Council
+    district: Bushenyi
+    region: Western
+    sub-region: Ankole
+  - county: Igara
+    district: Bushenyi
+    region: Western
+    sub-region: Ankole
+  - county: Busia Municipal Council 
+    district: Busia
+    region: Eastern
+    sub-region: Busoga
+  - county: Samia-Bugwe 
+    district: Busia
+    region: Eastern
+    sub-region: Busoga
+  - county: Bunyole 
+    district: Busia
+    region: Eastern
+    sub-region: Busoga
+  - county: Butambala
+    district: Butambala
+    region: Central
+    sub-region: Buganda
+  - county: Buvuma Islands
+    district: Buvuma
+    region: Central
+    sub-region: Buganda
+  - county: Budiope East  
+    district: Buyende
+    region: Eastern
+    sub-region: Busoga
+  - county: Budiope West
+    district: Buyende
+    region: Eastern
+    sub-region: Busoga
+  - county: Dokolo
+    district: Dokolo
+    region: Northern
+    sub-region: Lango
+  - county: Gomba
+    district: Gomba
+    region: Central
+    sub-region: Buganda
+  - county: Aswa
+    district: Gulu
+    region: Northern
+    sub-region: Acholi
+  - county: Gulu Municipal Council
+    district: Gulu
+    region: Northern
+    sub-region: Acholi
+  - county: Omoro
+    district: Gulu
+    region: Northern
+    sub-region: Acholi
+  - county: Bugahya
+    district: Hoima
+    region: Western
+    sub-region: Bunyoro
+  - county: Buhaguzi
+    district: Hoima
+    region: Western
+    sub-region: Bunyoro
+  - county: Hoima Municipal Council
+    district: Hoima
+    region: Western
+    sub-region: Bunyoro
+  - county: Ibanda
+    district: Ibanda
+    region: Western
+    sub-region: Ankole
+  - county: Bugweri
+    district: Iganga
+    region: Eastern
+    sub-region: Busoga
+  - county: Iganga Municipal Council
+    district: Iganga
+    region: Eastern
+    sub-region: Busoga
+  - county: Kigulu  
+    district: Iganga
+    region: Eastern
+    sub-region: Busoga
+  - county: Bukanga
+    district: Isingiro
+    region: Western
+    sub-region: Ankole
+  - county: Isingiro
+    district: Isingiro
+    region: Western
+    sub-region: Ankole
+  - county: Butembe
+    district: Jinja
+    region: Eastern
+    sub-region: Busoga
+  - county: Jinja Municipal Council
+    district: Jinja
+    region: Eastern
+    sub-region: Busoga
+  - county: Kagoma
+    district: Jinja
+    region: Eastern
+    sub-region: Busoga
+  - county: Dodoth East
+    district: Kaabong
+    region: Northern
+    sub-region: Karamoja
+  - county: Dodoth West
+    district: Kaabong
+    region: Northern
+    sub-region: Karamoja
+  - county: Kabale Municipal Council
+    district: Kabale
+    region: Western
+    sub-region: Kigezi
+  - county: Ngorwa
+    district: Kabale
+    region: Western
+    sub-region: Kigezi
+  - county: Rubanda
+    district: Kabale
+    region: Western
+    sub-region: Kigezi
+  - county: Rukiga
+    district: Kabale
+    region: Western
+    sub-region: Kigezi
+  - county: Bunyangabu
+    district: Kabarole
+    region: Western
+    sub-region: Rwenzori
+  - county: Burahya
+    district: Kabarole
+    region: Western
+    sub-region: Rwenzori
+  - county: Fort Portal Municipal Council
+    district: Kabarole
+    region: Western
+    sub-region: Rwenzori
+  - county: Nakasongola
+    district: Nakasongola
+    region: Central
+    sub-region: Buganda
+  - county: Kaberamaido
+    district: Kaberamaido
+    region: Eastern
+    sub-region: Teso
+  - county: Kalaki
+    district: Kaberamaido
+    region: Eastern
+    sub-region: Teso
+  - county: Bujumba
+    district: Kaberamaido
+    region: Eastern
+    sub-region: Teso
+  - county: Kyamuswa
+    district: Kalangala
+    region: Central
+    sub-region: Buganda
+  - county: Bulamogi
+    district: Kamuli
+    region: Eastern
+    sub-region: Busoga
+  - county: Kalungu
+    district: Kalungu
+    region: Central
+    sub-region: Buganda
+  - county: Kampala Capital City
+    district: Kampala
+    region: Central
+    sub-region: Buganda
+  - county: Bugabula
+    district: Kamuli
+    region: Eastern
+    sub-region: Busoga
+  - county: Buzaaya
+    district: Kamuli
+    region: Eastern
+    sub-region: Busoga
+  - county: Kibale
+    district: Kamwenge
+    region: Western
+    sub-region: Rwenzori
+  - county: Kitagwenda  
+    district: Kamwenge
+    region: Western
+    sub-region: Rwenzori  
+  - county: Kinkiizi
+    district: Kanungu
+    region: Western
+    sub-region: Kigezi
+  - county: Tingey
+    district: Kanungu
+    region: Western
+    sub-region: Kigezi
+  - county: Bukonzo 
+    district: Kasese
+    region: Western
+    sub-region: Rwenzori
+  - county: Busongora
+    district: Kasese
+    region: Western
+    sub-region: Rwenzori
+  - county: Kasese Municipal Council
+    district: Kasese
+    region: Western
+    sub-region: Rwenzori
+  - county: Toroma  
+    district: Katakwi
+    region: Eastern
+    sub-region: Teso
+  - county: Usuk  
+    district: Katakwi
+    region: Eastern
+    sub-region: Teso 
+  - county: Bbaale
+    district: Kayunga
+    region: Central
+    sub-region: Buganda
+  - county: Ntenjeru
+    district: Kayunga
+    region: Central
+    sub-region: Buganda
+  - county: Bugangaizi
+    district: Kibaale
+    region: Western
+    sub-region: Bunyoro
+  - county: Bugangaizi East
+    district: Kibaale
+    region: Western
+    sub-region: Bunyoro
+  - county: Buyaga
+    district: Kibaale
+    region: Western
+    sub-region: Bunyoro
+  - county: Buyaga West
+    district: Kibaale
+    region: Western
+    sub-region: Bunyoro 
+  - county: Buyanja
+    district: Kibaale
+    region: Western
+    sub-region: Bunyoro
+  - county: Kiboga East
+    district: Kiboga
+    region: Central
+    sub-region: Buganda
+  - county: Kibuku
+    district: Kibuku
+    region: Eastern
+    sub-region: Bugisu
+  - county: Kazo
+    district: Kiruhura
+    region: Western
+    sub-region: Ankole
+  - county: Nyabushozi  
+    district: Kiruhura
+    region: Western
+    sub-region: Ankole
+  - county: Kibanda
+    district: Kiryandongo
+    region: Western
+    sub-region: Bunyoro
+  - county: Bufumbira East
+    district: Kisoro
+    region: Western
+    sub-region: Kigezi
+  - county: Bufumbira North
+    district: Kisoro
+    region: Western
+    sub-region: Kigezi
+  - county: Bufumbira South
+    district: Kisoro
+    region: Western
+    sub-region: Kigezi
+  - county: Chua
+    district: Kitgum
+    region: Northern
+    sub-region: Acholi
+  - county: Koboko
+    district: Koboko
+    region: Northern
+    sub-region: West Nile
+  - county: Kole
+    district: Kole
+    region: Northern
+    sub-region: Lango
+  - county: Jie
+    district: Kotido
+    region: Northern
+    sub-region: Karamoja
+  - county: Kumi
+    district: Kumi
+    region: Eastern
+    sub-region: Teso
+  - county: Kween 
+    district: Kween
+    region: Eastern
+    sub-region: Bugisu
+  - county: Kiboga West
+    district: Kiboga
+    region: Central
+    sub-region: Buganda
+  - county: Kyaka
+    district: Kyegegwa
+    region: Western
+    sub-region: Bunyoro
+  - county: Mwenge
+    district: Kyenjojo
+    region: Western
+    sub-region: Bunyoro
+  - county: Lamwo
+    district: Lamwo
+    region: Northern
+    sub-region: Acholi
+  - county: Erute 
+    district: Lira
+    region: Northern
+    sub-region: Lango
+  - county: Lira Municipal Council
+    district: Lira
+    region: Northern
+    sub-region: Lango
+  - county: Luuka 
+    district: Luuka
+    region: Eastern
+    sub-region: Busoga
+  - county: Bamunanika
+    district: Luwero
+    region: Central
+    sub-region: Buganda
+  - county: Katikamu
+    district: Luwero
+    region: Central
+    sub-region: Buganda
+  - county: Bukoto  
+    district: Luwero
+    region: Central
+    sub-region: Buganda
+  - county: Kabula
+    district: Lyantonde
+    region: Central
+    sub-region: Buganda
+  - county: Bubulo
+    district: Manafwa
+    region: Eastern
+    sub-region: Bugisu
+  - county: Maracha
+    district: Maracha
+    region: Northern
+    sub-region: West Nile
+  - county: Bukoto Central
+    district: Masaka
+    region: Central
+    sub-region: Buganda
+  - county: Bukoto East
+    district: Masaka
+    region: Central
+    sub-region: Buganda
+  - county: Masaka Municipal Council
+    district: Masaka
+    region: Central
+    sub-region: Buganda
+  - county: Bujenje
+    district: Masindi
+    region: Western
+    sub-region: Bunyoro
+  - county: Buruuli
+    district: Masindi
+    region: Western
+    sub-region: Bunyoro
+  - county: Bunya
+    district: Masindi
+    region: Western
+    sub-region: Bun
+  - county: Bungokho
+    district: Mbale
+    region: Eastern
+    sub-region: Bugisu
+  - county: Mbale Municipal Council
+    district: Mbale
+    region: Eastern
+    sub-region: Bugisu
+  - county: Kashari
+    district: Mbarara
+    region: Western
+    sub-region: Ankole
+  - county: Mbarara Municipal Council
+    district: Mbarara
+    region: Western
+    sub-region: Ankole
+  - county: Rwampara  
+    district: Mbarara
+    region: Western
+    sub-region: Ankole
+  - county: Ruhinda
+    district: Mbarara
+    region: Western
+    sub-region: Ankole
+  - county: Busujju 
+    district: Mityana
+    region: Central
+    sub-region: Buganda 
+  - county: Mityana
+    district: Mityana
+    region: Central
+    sub-region: Buganda
+  - county: Matheniko
+    district: Moroto
+    region: Northern
+    sub-region: Karamoja
+  - county: Moroto Municipal Council
+    district: Moroto
+    region: Northern
+    sub-region: Karamoja
+  - county: Obongi
+    district: Moyo
+    region: Northern
+    sub-region: West Nile
+  - county: West Moyo
+    district: Moyo
+    region: Northern
+    sub-region: West Nile
+  - county: Mawokota
+    district: Mpigi
+    region: Central
+    sub-region: Buganda
+  - county: Buwekula
+    district: Mubende
+    region: Central
+    sub-region: Buganda
+  - county: Kasambya
+    district: Mubende
+    region: Central
+    sub-region: Buganda
+  - county: Kassanda
+    district: Mubende
+    region: Central
+    sub-region: Buganda
+  - county: Mukono
+    district: Mukono
+    region: Central
+    sub-region: Buganda
+  - county: Mukono Municipal Council  
+    district: Mukono
+    region: Central
+    sub-region: Buganda
+  - county: Ik
+    district: Kaabong
+    region: Northern
+    sub-region: Karamoja
+  - county: Nakifuma Council
+    district: Mukono
+    region: Central
+    sub-region: Buganda
+  - county: Chekwii (Kadam)
+    district: Moroto
+    region: Northern
+    sub-region: Karamoja
+  - county: Pian
+    district: Moroto
+    region: Northern
+    sub-region: Karamoja
+  - county: Nakaseke North
+    district: Nakaseke
+    region: Central
+    sub-region: Buganda
+  - county: Nakaseke South
+    district: Nakaseke
+    region: Central
+    sub-region: Buganda
+  - county: Budyebo
+    district: Nakasongola
+    region: Central
+    sub-region: Buganda
+  - county: Nakasongola
+    district: Nakasongola
+    region: Central
+    sub-region: Buganda
+  - county: Bukooli Island
+    district: Namayingo
+    region: Eastern
+    sub-region: Busoga
+  - county: Bukooli South
+    district: Namayingo
+    region: Eastern
+    sub-region: Busoga
+  - county: Busiki
+    district: Namutumba
+    region: Eastern
+    sub-region: Busoga
+  - county: Bokora
+    district: Napak
+    region: Northern
+    sub-region: Karamoja
+  - county: Jonam
+    district: Nebbi
+    region: Northern
+    sub-region: West Nile
+  - county: Padyere
+    district: Nebbi
+    region: Northern
+    sub-region: West Nile
+  - county: Ngora
+    district: Ngora
+    region: Eastern
+    sub-region: Teso
+  - county: Ntoroko
+    district: Ntoroko
+    region: Western
+    sub-region: Bunyoro
+  - county: Kajara
+    district: Ntungamo
+    region: Western
+    sub-region: Ankole
+  - county: Ntungamo Municipal Council
+    district: Ntungamo
+    region: Western
+    sub-region: Ankole
+  - county: Ruhaama
+    district: Ntungamo
+    region: Western
+    sub-region: Ankole
+  - county: Rushenyi
+    district: Ntungamo
+    region: Western
+    sub-region: Ankole
+  - county: Nwoya
+    district: Nwoya
+    region: Northern
+    sub-region: Acholi
+  - county: Otuke
+    district: Otuke
+    region: Northern
+    sub-region: Lango
+  - county: Oyam
+    district: Oyam
+    region: Northern
+    sub-region: Lango
+  - county: Aruu
+    district: Pader
+    region: Northern
+    sub-region: Acholi
+  - county: Agule
+    district: Pallisa
+    region: Eastern
+    sub-region: Teso
+  - county: Butebo
+    district: Pallisa
+    region: Eastern
+    sub-region: Teso
+  - county: Pallisa
+    district: Pallisa
+    region: Eastern
+    sub-region: Teso
+  - county: Kakuuto
+    district: Rakai
+    region: Central
+    sub-region: Buganda
+  - county: Kooki
+    district: Rakai
+    region: Central
+    sub-region: Buganda
+  - county: Kyotera
+    district: Rakai
+    region: Central
+    sub-region: Buganda
+  - county: Bunyaruguru
+    district: Rubirizi
+    region: Western
+    sub-region: Ankole
+  - county: Katerera
+    district: Rubirizi
+    region: Western
+    sub-region: Ankole
+  - county: Rubabo
+    district: Rubirizi
+    region: Western
+    sub-region: Ankole
+  - county: Rujumbura
+    district: Rukungiri
+    region: Western
+    sub-region: Kigezi
+  - county: Rukungiri Municipal Council
+    district: Rukungiri
+    region: Western
+    sub-region: Kigezi
+  - county: Lwemiyaga
+    district: Sembabule
+    region: Central
+    sub-region: Buganda
+  - county: Mawogola
+    district: Sembabule
+    region: Central
+    sub-region: Buganda
+  - county: Kasilo
+    district: Serere
+    region: Eastern
+    sub-region: Teso
+  - county: Serere
+    district: Serere
+    region: Eastern
+    sub-region: Teso
+  - county: Sheema
+    district: Sheema
+    region: Western
+    sub-region: Ankole
+  - county: Budadiri
+    district: Sironko
+    region: Eastern
+    sub-region: Bugisu
+  - county: Soroti
+    district: Soroti
+    region: Eastern
+    sub-region: Teso
+  - county: Soroti Municipal Council
+    district: Soroti
+    region: Eastern
+    sub-region: Teso
+  - county: Tororo
+    district: Tororo
+    region: Eastern
+    sub-region: Teso
+  - county: Tororo Municipal Council
+    district: Tororo
+    region: Eastern
+    sub-region: Teso
+  - county: West Budama
+    district: Tororo
+    region: Eastern
+    sub-region: Teso
+  - county: Busiro
+    district: Wakiso
+    region: Central
+    sub-region: Buganda
+  - county: Entebbe Municipal Council
+    district: Wakiso
+    region: Central
+    sub-region: Buganda
+  - county: Kyadondo
+    district: Wakiso
+    region: Central
+    sub-region: Buganda
+  - county: Aringa
+    district: Yumbe
+    region: Northern
+    sub-region: West Nile
+  - county: Okoro
+    district: Yumbe
+    region: Northern
+    sub-region: West Nile
+  - country: Adjumani East
+    district: Adjumani
+    region: Northern
+    sub-region: West Nile
+  - country: Adjumani West
+    district: Adjumani
+    region: Northern
+    sub-region: West Nile
+  - country: Agago West
+    district: Agago
+    region: Northern
+    sub-region: Acholi
+  - country: Agago North
+    district: Agago
+    region: Northern
+    sub-region: Acholi
+  - country: Kioga North
+    district: Amolatar
+    region: Northern
+    sub-region: Lango
+  - country: Orungo
+    district: Amolatar
+    region: Northern
+    sub-region: Lango
+  - country: Kilak North
+    district: Amuru
+    region: Northern
+    sub-region: Acholi
+  - country: Kilak South
+    district: Amuru
+    region: Northern
+    sub-region: Acholi
+  - country: Maruzi North
+    district: Apac
+    region: Northern
+    sub-region: Lango
+  - country: Bushigai
+    district: Budaka
+    region: Eastern
+    sub-region: Teso
+  - country: Lutseshe
+    district: Budaka
+    region: Eastern
+    sub-region: Teso
+  - country: Bukooli Central  
+    district: Bugiri
+    region: Eastern
+    sub-region: Busoga
+  - country: Bukooli North
+    district: Bugiri
+    region: Eastern
+    sub-region: Busoga
+  - country: Buhweju West 
+    district: Buhweju
+    region: Western
+    sub-region: Ankole
+  - country: Buikwe South 
+    district: Buikwe
+    region: Central
+    sub-region: Busoga
+  - country: Kachumbala 
+    district: Bukedea
+    region: Eastern
+    sub-region: Teso
+  - country: Bukomansimbi North
+    district: Bukomansimbi
+    region: Central
+    sub-region: Buganda
+  - country: Bukomansimbi South
+    district: Bukomansimbi
+    region: Central
+    sub-region: Buganda
+  - country: T'oo
+    district: Bukwo
+    region: Eastern
+    sub-region: Bugisu
+  - country: Elgon  
+    district: Bulambuli
+    region: Eastern
+    sub-region: Bugisu
+  - country: Elgon North  
+    district: Bulambuli
+    region: Eastern
+    sub-region: Bugisu
+  - country: Igara East 
+    district: Bushenyi
+    region: Western
+    sub-region: Ankole
+  - country: Igara West 
+    district: Bushenyi
+    region: Western
+    sub-region: Ankole
+  - country: Samia Bugwe Central  
+    district: Busia
+    region: Eastern
+    sub-region: Busoga
+  - country: Samia Bugwe North  
+    district: Busia
+    region: Eastern
+    sub-region: Busoga
+  - country: Samia Bugwe South  
+    district: Busia
+    region: Eastern
+    sub-region: Busoga
+  - country: Bunyole East 
+    district: Busia
+    region: Eastern
+    sub-region: Busoga
+  - country: Bunyole West 
+    district: Busia
+    region: Eastern
+    sub-region: Busoga
+  - country: Dokolo North 
+    district: Dokolo
+    region: Northern
+    sub-region: Lango
+  - country: Dokolo South 
+    district: Dokolo
+    region: Northern
+    sub-region: Lango
+  - country: Gomba East 
+    district: Gomba
+    region: Central
+    sub-region: Buganda
+  - country: Gomba West 
+    district: Gomba
+    region: Central
+    sub-region: Buganda
+  - country: Kigorobya  
+    district: Hoima
+    region: Western
+    sub-region: Bunyoro
+  - country: Ibanda North 
+    district: Ibanda
+    region: Western
+    sub-region: Ankole
+  - country: Ibanda South 
+    district: Ibanda
+    region: Western
+    sub-region: Ankole
+  - country: Kigulu North 
+    district: Iganga
+    region: Eastern
+    sub-region: Busoga
+  - country: Kigulu South 
+    district: Iganga
+    region: Eastern
+    sub-region: Busoga
+  - country: Bukanga North  
+    district: Isingiro
+    region: Western
+    sub-region: Ankole
+  - country: Isingiro North 
+    district: Isingiro
+    region: Western
+    sub-region: Ankole
+  - country: Isingiro South 
+    district: Isingiro
+    region: Western
+    sub-region: Ankole
+  - country: Kagoma North
+    district: Jinja
+    region: Eastern
+    sub-region: Busoga
+  - country: Dodoth North 
+    district: Kaabong
+    region: Northern
+    sub-region: Karamoja
+  - country: Ndorwa East  
+    district: Kabale
+    region: Western
+    sub-region: Kigezi
+  - country: Ndorwa West  
+    district: Kabale
+    region: Western
+    sub-region: Kigezi
+  - country: Ochero 
+    district: Kitgum
+    region: Northern
+    sub-region: Acholi
+  - country: Buyaga East  
+    district: Kibaale
+    region: Western
+    sub-region: Bunyoro
+  - country: Bugangaizi South
+    district: Kibaale
+    region: Western
+    sub-region: Bunyoro
+  - country: Bugangaizi West  
+    district: Kibaale
+    region: Western
+    sub-region: Bunyoro
+  - country: Bulamogi North West  
+    district: Kamuli
+    region: Eastern
+    sub-region: Busoga
+  - country: Kalungu East 
+    district: Kalungu
+    region: Central
+    sub-region: Buganda
+  - country: Kalungu West 
+    district: Kalungu
+    region: Central
+    sub-region: Buganda
+  - country: Kibale East  
+    district: Kamwenge
+    region: Western
+    sub-region: Rwenzori
+  - country: Kinkizi East 
+    district: Kanungu
+    region: Western
+    sub-region: Kigezi
+  - country: Kinkizi West 
+    district: Kanungu
+    region: Western
+    sub-region: Kigezi
+  - country: Napore West  
+    district: Katakwi
+    region: Eastern
+    sub-region: Teso
+  - country: Bukonjo West 
+    district: Kasese
+    region: Western
+    sub-region: Rwenzori
+  - country: Bukonzo East 
+    district: Kasese
+    region: Western
+    sub-region: Rwenzori
+  - country: Busongora North  
+    district: Kasese
+    region: Western
+    sub-region: Rwenzori
+  - country: Busongora South  
+    district: Kasese
+    region: Western
+    sub-region: Rwenzori
+  - country: Bukuya 
+    district: Kibaale
+    region: Western
+    sub-region: Bunyoro
+  - country: Kassanda North 
+    district: Kassanda
+    region: Central
+    sub-region: Buganda
+  - country: Kassanda South 
+    district: Kassanda
+    region: Central
+    sub-region: Buganda
+  - country: Ngariam  
+    district: Katakwi
+    region: Eastern
+    sub-region: Teso
+  - country: Bbale
+    district: Kayunga
+    region: Central
+    sub-region: Buganda
+  - country: Ntenjeru North
+    district: Kayunga
+    region: Central
+    sub-region: Buganda
+  - country: Ntenjeru South 
+    district: Kayunga
+    region: Central
+    sub-region: Buganda
+  - country: Buyanja East
+    district: Kibaale
+    region: Western
+    sub-region: Bunyoro 
+  - country: Kiboga East  
+    district: Kiboga
+    region: Central
+    sub-region: Buganda
+  - country: Kiboga West  
+    district: Kiboga
+    region: Central
+    sub-region: Buganda
+  - country: Kabweri  
+    district: Kibuku
+    region: Eastern
+    sub-region: Bugisu
+  - country: Buhaguzi East  
+    district: Hoima
+    region: Western
+    sub-region: Bunyoro
+  - country: Kashongi
+    district: Ibanda
+    region: Western
+    sub-region: Ankole
+  - country: Kibanda North
+    district: Kiryandongo
+    region: Western
+    sub-region: Bunyoro
+  - country: Kibanda South
+    district: Kiryandongo
+    region: Western
+    sub-region: Bunyoro
+  - country: Bufumbira East
+    district: Kisoro
+    region: Western
+    sub-region: Kigezi
+  - country: Bufumbira
+    district: Kisoro
+    region: Western
+    sub-region: Kigezi
+  - country: Chua East
+    district: Kitgum
+    region: Northern
+    sub-region: Acholi
+  - country: Chua West
+    district: Kitgum
+    region: Northern
+    sub-region: Acholi
+  - country: Koboko North
+    district: Koboko
+    region: Northern
+    sub-region: West Nile
+  - country: Kole North
+    district: Kole
+    region: Northern
+    sub-region: Lango
+  - country: Kole South
+    district: Kole
+    region: Northern
+    sub-region: Lango
+  - country: Kanyum
+    district: Kotido
+    region: Northern
+    sub-region: Karamoja
+  - country: Kwania North
+    district: Kwania
+    region: Northern
+    sub-region: Lango
+  - country: Soi
+    district: Kween
+    region: Eastern
+    sub-region: Bugisu
+  - county: Butemba
+    district: Kyankwanzi
+    region: Central
+    sub-region: Buganda
+  - county: Ntwetwe
+    district: Kyankwanzi
+    region: Central
+    sub-region: Buganda
+  - county: Kyaka Central
+    district: Kyegegwa
+    region: Western
+    sub-region: Bunyoro
+  - county: Kyaka North
+    district: Kyegegwa
+    region: Western
+    sub-region: Bunyoro
+  - county: Kyaka South
+    district: Kyegegwa
+    region: Western
+    sub-region: Bunyoro
+  - county: Mwenge Central
+    district: Kyenjojo
+    region: Western
+    sub-region: Bunyoro
+  - county: Mwenge North
+    district: Kyenjojo
+    region: Western
+    sub-region: Bunyoro
+  - county: Mwenge South  
+    district: Kyenjojo
+    region: Western
+    sub-region: Bunyoro
+  - county: Palabek
+    district: Lamwo
+    region: Northern
+    sub-region: Acholi
+  - county: Erute North
+    district: Lira
+    region: Northern
+    sub-region: Lango
+  - county: Erute South
+    district: Lira
+    region: Northern
+    sub-region: Lango
+  - county: Luuka North
+    district: Luuka
+    region: Eastern
+    sub-region: Busoga
+  - county: Luuka South
+    district: Luuka
+    region: Eastern
+    sub-region: Busoga
+  - county: Katikamu North
+    district: Luwero
+    region: Central
+    sub-region: Buganda
+  - county: Katikamu South
+    district: Luwero
+    region: Central
+    sub-region: Buganda
+  - county: Bukoto Mid-West
+    district: Lwengo
+    region: Central
+    sub-region: Buganda
+  - county: Bukoto North
+    district: Lwengo
+    region: Central
+    sub-region: Buganda
+  - county: Bukoto South
+    district: Lwengo
+    region: Central
+    sub-region: Buganda
+  - county: Lower Madi
+    district: Madi-Okollo
+    region: Northern
+    sub-region: West Nile
+  - county: Upper Madi  
+    district: Madi-Okollo
+    region: Northern
+    sub-region: West Nile
+  - county: Bubulo West
+    district: Manafwa
+    region: Eastern
+    sub-region: Bugisu
+  - county: Butiru
+    district: Manafwa
+    region: Eastern
+    sub-region: Bugisu
+  - county: Maracha East
+    district: Maracha
+    region: Northern
+    sub-region: West Nile
+  - county: Bukoto Central
+    district: Masaka
+    region: Central
+    sub-region: Buganda
+  - county: Bukoto East
+    district: Masaka
+    region: Central
+    sub-region: Buganda
+  - county: Buruli
+    district: Masindi
+    region: Western
+    sub-region: Bunyoro
+  - county: Bunya East
+    district: Mayuge
+    region: Eastern
+    sub-region: Busoga
+  - county: Bunya South
+    district: Mayuge
+    region: Eastern
+    sub-region: Busoga
+  - county: Bunya West
+    district: Mayuge
+    region: Eastern
+    sub-region: Busoga
+  - county: Bungokho North
+    district: Mbale
+    region: Eastern
+    sub-region: Bugisu
+  - county: Bungokho South
+    district: Mbale
+    region: Eastern
+    sub-region: Bugisu
+  - county: Bungokho Central
+    district: Mbale
+    region: Eastern
+    sub-region: Bugisu
+  - county: Kashari North
+    district: Mbarara
+    region: Western
+    sub-region: Ankole
+  - county: Kashari South
+    district: Mbarara
+    region: Western
+    sub-region: Ankole
+  - county: Ruhinda North
+    district: Mbarara
+    region: Western
+    sub-region: Ankole
+  - county: Ruhinda South
+    district: Mbarara
+    region: Western
+    sub-region: Ankole
+  - county: Mityana North
+    district: Mityana
+    region: Central
+    sub-region: Buganda
+  - county: Mityana South
+    district: Mityana
+    region: Central
+    sub-region: Buganda
+  - county: Tepeth
+    district: Moroto
+    region: Northern
+    sub-region: Karamoja
+  - county: Mawokota North
+    district: Mpigi
+    region: Central
+    sub-region: Buganda
+  - county: Mawokota South
+    district: Mpigi
+    region: Central
+    sub-region: Buganda
+  - county: Buwekula South
+    district: Mubende
+    region: Central
+    sub-region: Buganda
+  - county: Mukono North
+    district: Mukono
+    region: Central
+    sub-region: Buganda
+  - county: Mukono South
+    district: Mukono
+    region: Central
+    sub-region: Buganda
+  - county: Nakifuma
+    district: Mukono
+    region: Central
+    sub-region: Buganda
+  - county: Chekwii (Kadam)
+    district: Moroto
+    region: Northern
+    sub-region: Karamoja
+  - county: Chekwii East
+    district: Moroto
+    region: Northern
+    sub-region: Karamoja
+  - county: Nakaseke Central
+    district: Nakaseke
+    region: Central
+    sub-region: Buganda
+  - county: Namayingo South
+    district: Namayingo
+    region: Eastern
+    sub-region: Busoga
+  - county: Bubulo East
+    district: Namisindwa
+    region: Eastern
+    sub-region: Bugisu
+  - county: Namisindwa
+    district: Namisindwa
+    region: Eastern
+    sub-region: Bugisu
+  - county: Bukono
+    district: Namutumba
+    region: Eastern
+    sub-region: Busoga
+  - county: Bokora East
+    district: Napak
+    region: Northern
+    sub-region: Karamoja
+  - county: Busiki North
+    district: Namutumba
+    region: Eastern
+    sub-region: Busoga
+  - county: Kapir
+    district: Ngora
+    region: Eastern
+    sub-region: Teso
+  - county: Ruhaama East
+    district: Ntungamo
+    region: Western
+    sub-region: Ankole
+  - county: Nwoya East
+    district: Nwoya
+    region: Northern
+    sub-region: Acholi
+  - county: Tochi
+    district: Otuke
+    region: Northern
+    sub-region: Lango
+  - county: Oyam North
+    district: Oyam
+    region: Northern
+    sub-region: Lango
+  - county: Oyam South
+    district: Oyam
+    region: Northern
+    sub-region: Lango
+  - county: Aruu North
+    district: Pader
+    region: Northern
+    sub-region: Acholi
+  - county: Gogonyo
+    district: Pallisa
+    region: Eastern
+    sub-region: Teso
+  - county: Rubanda East
+    district: Rubanda
+    region: Western
+    sub-region: Kigezi
+  - county: Rubanda West
+    district: Rubanda
+    region: Western
+    sub-region: Kigezi
+  - county: Rwampara East
+    district: Mbarara
+    region: Western
+    sub-region: Ankole
+  - county: Pingire
+    district: Serere
+    region: Eastern
+    sub-region: Teso
+  - county: Sheema North
+    district: Sheema
+    region: Western
+    sub-region: Ankole
+  - county: Sheema South
+    district: Sheema
+    region: Western
+    sub-region: Ankole
+  - county: Budadiri East
+    district: Sironko
+    region: Eastern
+    sub-region: Bugisu
+  - county: Budadiri West 
+    district: Sironko
+    region: Eastern
+    sub-region: Bugisu
+  - county: Dakabela
+    district: Soroti
+    region: Eastern
+    sub-region: Teso
+  - county: Gweri
+    district: Soroti
+    region: Eastern
+    sub-region: Teso
+  - county: Mawogola South
+    district: Sembabule
+    region: Central
+    sub-region: Buganda
+  - county: Mawogola West
+    district: Sembabule
+    region: Central
+    sub-region: Buganda
+  - county: Mawogola North
+    district: Sembabule
+    region: Central
+    sub-region: Buganda
+  - county: Terego East
+    district: Terego
+    region: Northern
+    sub-region: West Nile
+  - county: Terego West
+    district: Terego
+    region: Northern
+    sub-region: West Nile
+  - county: Tororo North
+    district: Tororo
+    region: Eastern
+    sub-region: Teso
+  - county: Tororo South
+    district: Tororo
+    region: Eastern
+    sub-region: Teso
+  - county: West Budama Central
+    district: Tororo
+    region: Eastern
+    sub-region: Teso
+  - county: West Budama North
+    district: Tororo
+    region: Eastern
+    sub-region: Teso  
+  - county: West Budama South
+    district: Tororo
+    region: Eastern
+    sub-region: Teso
+  - county: West Budama North East
+    district: Tororo
+    region: Eastern
+    sub-region: Teso
+  - county: Busiro East
+    district: Wakiso
+    region: Central
+    sub-region: Buganda
+  - county: Busiro North
+    district: Wakiso
+    region: Central
+    sub-region: Buganda
+  - county: Busiro South
+    district: Wakiso
+    region: Central
+    sub-region: Buganda
+  - county: Kyadondo East
+    district: Wakiso
+    region: Central
+    sub-region: Buganda
+  - county: Aringa East
+    district: Yumbe
+    region: Northern
+    sub-region: West Nile
+  - county: Aringa North
+    district: Yumbe
+    region: Northern
+    sub-region: West Nile
+  - county: Aringa South
+    district: Yumbe
+    region: Northern
+    sub-region: West Nile
+  - county: Ora
+    district: Yumbe
+    region: Northern
+    sub-region: West Nile
