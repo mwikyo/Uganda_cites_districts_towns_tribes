@@ -1,7 +1,7 @@
 cities:
   - city: Kampala
     region: Central
-    sub-region:
+    sub-region: Buganda
   - city: Fort Portal
     region: Western
     sub-region: Rwenzori

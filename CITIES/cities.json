@@ -1,16 +1,59 @@
 {
-    "cities": [
-      "ARUA",
-      "ENTEBBE",
-      "FORT PORTAL",
-      "GULU",
-      "HOIMA",
-      "JINJA",
-      "KAMPALA",
-      "LIRA",
-      "MASAKA",
-      "MBALE",
-      "MBARARA"
-    ]
+  "cities": [
+     {
+        "city": "Kampala",
+        "region": "Central",
+        "sub-region": "Buganda"
+     },
+     {
+        "city": "Fort Portal",
+        "region": "Western",
+        "sub-region": "Rwenzori"
+     },
+     {
+        "city": "Hoima",
+        "region": "Western",
+        "sub-region": "Bunyoro"
+     },
+     {
+        "city": "Arua",
+        "region": "Northern",
+        "sub-region": "West Nile"
+     },
+     {
+        "city": "Mbarara",
+        "region": "Western",
+        "sub-region": "Ankole"
+     },
+     {
+        "city": "Entebbe",
+        "region": "Central",
+        "sub-region": "Buganda"
+     },
+     {
+        "city": "Jinja",
+        "region": "Eastern",
+        "sub-region": "Busoga"
+     },
+     {
+        "city": "Mbale",
+        "region": "Eastern",
+        "sub-region": "Bugisu"
+     },
+     {
+        "city": "Lira",
+        "region": "Northern",
+        "sub-region": "Lango"
+     },
+     {
+        "city": "Gulu",
+        "region": "Northern",
+        "sub-region": "Acholi"
+     },
+     {
+        "city": "Masaka",
+        "region": "Central",
+        "sub-region": "Buganda"
+     }
+  ]
 }
-  
