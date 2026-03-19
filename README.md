@@ -1,5 +1,5 @@
-# Uganda_cites_districts_towns_tribes
-A full list of all districts, cities, municipalities/towns, counties and tribes in Uganda.
+# Uganda Cities, Districts, Towns and Tribes Dataset
+This repository contains structured data on Uganda's districts, major towns, counties, cities, and ethnic tribes. Useful for research, data analysis, mapping, and education.
 
 Each list is provided in three file types: csv, yaml and json.
 
